@@ -19,7 +19,7 @@ while True:
     so_lan_doan += 1
 
     if doan == so_bi_mat:
-        print("Bingo! Bạn đã chiến thắng!")
+        print("Bingo! Bạn đã đoán đúng!")
         print("Số lần đoán:", so_lan_doan)
         break
     elif doan != so_bi_mat:
