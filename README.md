@@ -1,2 +1,2 @@
-# B-i-t-p-Nh-p-m-n-CNTT
-2621050554 - Đỗ Hữu Đạt
+Game đoán số bí mật bằng Python.
+Cách chơi: Người chơi nhập một số nguyên bất kì từ 1 đến 10. 
